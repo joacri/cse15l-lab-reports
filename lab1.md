@@ -1,4 +1,4 @@
-# Week 1 Lab Report
+# Lab Report 1
 
 > In this week's lab we learned about setting up remote access.
 > This is a tutorial on how to log into a course-specific account on ieng6.
@@ -22,6 +22,17 @@
 > - When it is your first time connecting to a server it will give you basic messages that you can just type `yes` in order to continue.
 > - It should then ask for your password. (When it asked for my password it wouldn't let me see what I was typing, but I just typed in my password and pressed enter at the end and it worked fine). Should look like this when you have connected successfully.
 > ![Image](rc_in.png)
-> 
+
 ## Trying Some Commands
->
+> The following commands can produce different results based on the input that follows them and the order that they are called.
+> - `cd`    - change directory 
+> - `pwd`   - print working directory 
+> - `ls`    - lists the the files and directories
+> ![Image](tsc1.png)
+> - `cp`    - copies files or group to specific destination
+> - `cat`   - prints the the contents of one or more files 
+> ![Image](tsc2.png)
+> - `mkdir` - creates directories
+> - `rmdir` - removes the directory
+> - `exit`  - logs you out of the remote server in your terminal
+> ![Image](tsc3.png)
