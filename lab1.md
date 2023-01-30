@@ -15,6 +15,14 @@
 > - If you are on Windows (like me), then a very important step is to install git for Windows on your device. Use the following link for download: [gitforwindows.org](https://gitforwindows.org/) 
 > - The next step for Window users is to follow the steps in this new [link](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) in order to open the Git Bash terminal in VScode. After that you can continue with the rest of the instructions. 
 
+> CSE15L Account & Password
+> - In order to access your account information you have to use the following link : [sdacs.ucsd.edu](https://sdacs.ucsd.edu/~icc/index.php)
+> - That is where you need to input your school username and student ID.
+> - The course specific account you found should begin with 'cs15lwi23' and be followed by some letters.
+> - Also visible on that page should be the link that takes you to change your password for that account.
+> - Make sure to change your password and for a more in depth explanation go to this [Tutorial](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit).
+> - Once you successfully reset your password you can continue with the steps that follow!!!
+
 > - Open a new terminal by using the menu option or Ctrl + ` . It should look like this: 
 > ![Image](rc_open.png)
 > - Type in the following command but the letters between the 23 and the @ should be the ones that correspond to your own course-specific account.
