@@ -3,7 +3,6 @@
 
 ## Part 1: String Server
 The following is the code for my StringServer:
-
 ```
 import java.io.IOException;
 import java.net.URI;
