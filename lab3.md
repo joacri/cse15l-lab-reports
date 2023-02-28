@@ -1,5 +1,94 @@
 # Lab Report 3
 > Researching Commands
 
-## subtitle
+## The command I chose to research is `grep`
+> The current working directory in which I will run the grep commands that I found is:
+>
+>   `/home/linux/ieng6/cs15lwi23/cs15wi23acn/skill-demo1-data/written_2/travel_guides/berlitz2/`
+---
+## 1.) `grep "[^(character)](string)" (filename)`
+> Ex. 1 - Input:
+```
+```
+> Output: 
+```
+```
+> Explanation: What its doing, Why its useful
 > 
+> Source: [https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
+
+> Ex. 2 - Input:
+```
+```
+> Output: 
+```
+```
+> Explanation: What its doing, Why its useful
+> 
+> Source: [[www.digitalocean.com](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
+---
+## 2.) `grep "..(string)" (filename)`
+> Ex. 3 - Input:
+```
+```
+> Output: 
+```
+```
+> Explanation: What its doing, Why its useful
+> 
+> Source: [[www.digitalocean.com](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
+
+> Ex. 4  - Input:
+```
+```
+> Output: 
+```
+```
+> Explanation: What its doing, Why its useful
+> 
+> Source: [https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
+
+---
+## 3.) `grep -E "(string)?(string)" (filename)`
+> Ex. 5 - Input:
+```
+```
+> Output: 
+```
+```
+> Explanation: What its doing, Why its useful
+> 
+> Source: [[www.digitalocean.com](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
+
+> Ex. 6 - Input:
+```
+```
+> Output: 
+```
+```
+> Explanation: What its doing, Why its useful
+> 
+> Source: [[www.digitalocean.com](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
+
+---
+## 4.) `grep "^[A-Z]" (filename) `
+> Ex. 7 - Input:
+```
+```
+> Output: 
+```
+```
+> Explanation: What its doing, Why its useful
+> 
+> Source: [[www.digitalocean.com](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
+
+
+> Ex. 8 - Input:
+```
+```
+> Output: 
+```
+```
+> Explanation: What its doing, Why its useful
+> 
+> Source: [[www.digitalocean.com](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
