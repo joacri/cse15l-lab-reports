@@ -76,6 +76,7 @@ grep "[A-L]" Paris-WhereToGo.txt
 ```
 > Output: 
 ![Image](L3-7.png)
+
 > Explanation: This command is specifiying that the range of characters between A-L, which are strictly uppercase letters be found in the beginning of each line in the textfile. this can be helpful if you are looking for names that begin with a letter within that range.
 > 
 > Source: [[www.digitalocean.com](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
