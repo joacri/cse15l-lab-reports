@@ -21,18 +21,18 @@
 `nano Li<Tab>.j<Tab> <Enter>` `<down> (42 times), (change "index1 += 1" to "index2 += 1")`
 `Ctrl + o (Save), <Enter>`
 `Ctrl + x (Exit)`
-> a
+> The nano command allows me to see the file 'ListExamples.java', which autocompletes in the command with <Tab> after typing "Li". I scroll down to line 42 where the issue was that the variable index1 was supposed to be index2 in order for the tests to pass. Ctrl + O saves the changes and Ctrl + X exits and I will be able to type into the terminal.
 ![Image](L4-P4.png)
 ![Image](L4-P4.2.png)
 
 ## Step 8 - Run the tests, demonstrating that they now succeed
 `<up> <up> <up> <Enter>, <up> <up> <up> <Enter>`
->The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was up 3 in history, so I used up arrow to access it. Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` command was 3 up in the history, so I accessed and ran it in the same way to run the tests.
+> The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was up 3 in history, so I used up arrow to access it. Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` command was 3 up in the history, so I accessed and ran it in the same way to run the tests.
 ![Image](L4-P5.png)
 
 ## Step 9 - Commit and push the resulting change to your Github account
 `git add Li <Tab>.java`
 `git commit -m "Updated"`
 `git push`
->a
+> I typed git add and then "Li" autocompletes to ListExamples, this command adds a change in the working directory to the staging area. Then with the git commit command it takes the staging area and stores that snapshot permanently to the Git directory. The "-m  "Updated" is to leave a message. Finally the git push uploads the local repository content to the remote repository.
 ![Image](L4-P6.png)
