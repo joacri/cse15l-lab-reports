@@ -49,7 +49,7 @@ find -type f -cmin +24
 > Source: [https://linuxhandbook.com/find-command-examples/](https://linuxhandbook.com/find-command-examples/)
 
 ---
-## 3.) `find . -maxdepth (num of depth)`
+## 3.) `find . -maxdepth (num of depth) -type f -name "string"`
 > Ex. 5 - Input:
 ```
 find . -maxdepth 2 -type f -name "*ch1.txt"
